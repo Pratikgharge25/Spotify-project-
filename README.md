@@ -72,16 +72,4 @@ Songs – Individual song analytics
 
 Interactive Filters – User-driven exploration
 
-🚀 Skills Demonstrated
 
-Dashboard UI/UX design
-
-Data cleaning & shaping
-
-DAX calculations for KPIs
-
-Creating slicers, filters & interactive visuals
-
-Storytelling through data visualization
-
-Theme customization & report navigation
