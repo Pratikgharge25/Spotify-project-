@@ -83,7 +83,6 @@ DAX calculations for KPIs
 Creating slicers, filters & interactive visuals
 Storytelling through data visualization
 
-Theme customization & report navigation.
 
 
 
